@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YiShi99/)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently Currently pursuing a Ph.D. at the Brain Lab, Department of Automation, Northwestern Polytechnical University (NWPU), under the joint supervision of Prof. Junwei Han (IEEE Fellow) and Prof. Dingwen Zhang.
 
 #### Email  
 <code>yishi@mail.nwpu.edu.cn</code>  
