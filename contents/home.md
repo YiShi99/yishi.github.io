@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YiShi99/)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>yishi@mail.nwpu.edu.cn</code>  
+<code>yishibiubiu@outlook.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+Northwestern Polytechnical University, PhD in Automation (2024 – Present)
+• Brain Lab, focusing on [computer vision/Multi-model learning].
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+Northeastern University, Master of Mechanical Engineering and Automation (2021 – 2024)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
+Yanshan University, Bachelor of Vehicle Engineering and Energy (2016 – 2020)
 #### Research Interests  
-XX, XX, XX, XX.
+Infrared and Visible Image Fusion, Computer Vision, Deep Learning , Object detection, Attention Mechanism 
